@@ -1,24 +1,25 @@
 # GPA
 
-### (AA = 4, BA = 3.5, BB = 3, CB = 2.5, CC = 2, DC = 1.5, DD = 1, FD 0.5, FF = 0) that can be used in schools using the lettering style mean calculation system, course ### name, lettering and A dynamic application that calculates the average by entering the loan value.
+<h2>(AA = 4, BA = 3.5, BB = 3, CB = 2.5, CC = 2, DC = 1.5, DD = 1, FD 0.5, FF = 0) that can be used in schools using the lettering style mean calculation system, course name, lettering and A dynamic application that calculates the average by entering the loan value.</h2>
 <hr>
 <hr>
+<div align="center">
 <h3>Default Home Page</h3>                                                                                                                         
-<img src="https://i.hizliresim.com/yt5bt4k.png" alt="State 1" style="height: 500px; width:300px;"/>
+<img src="ımages_after_operation/state1.png" alt="State 1" style="height: 500px; width:300px;"/>
 <hr>
 <h3>After adding a lecture</h3>
-<img src="https://i.hizliresim.com/mfjm1kr.png" alt="State 2" style="height: 500px; width:300px;"/>
+<img src="ımages_after_operation/state2.png" alt="State 2" style="height: 500px; width:300px;"/>
 <hr>
 <h3>After adding more lectures</h3>
-<img src="https://i.hizliresim.com/gduu7rd.png" alt="State 3" style="height: 500px; width:300px;"/>
+<img src="ımages_after_operation/state3.png" alt="State 3" style="height: 500px; width:300px;"/>
 <hr>
 <h3>After adding more and more lectures</h3>
-<img src="https://i.hizliresim.com/28pghme.png" alt="State 4" style="height: 500px; width:300px;"/>
+<img src="ımages_after_operation/state4.png" alt="State 4" style="height: 500px; width:300px;"/>
 <hr>
 <h3>After removing lecture or lectures</h3>
-<img src="https://i.hizliresim.com/3q0ztye.png" alt="State 5" style="height: 500px; width:300px;"/>
+<img src="ımages_after_operation/state5.png" alt="State 5" style="height: 500px; width:300px;"/>
 <hr>
-
+</div>
 <h3>Getting Started</h3>
 
 This project is a starting point for a Flutter application.
